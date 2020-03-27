@@ -8,5 +8,7 @@
 1. python 3.6.5
 2. TensorFlow 1.5.0
 3. Keras 2.2.4
+4. opencv-python 4.1.0.25
+5. pip3 install numpy scipy matplotlib scikit-learn
 
 ![](https://github.com/eclipsequote/Face_Recognition_using_OpenCV/blob/master/Netemo_sametemo.gif)
